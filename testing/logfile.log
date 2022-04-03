@@ -1,0 +1,18 @@
+
+A Debug statement is executed
+information statement
+something is in warning mode
+A major error occurred
+critical issue
+2022-01-29 23:17:47,663 :DEBUG : testing.test_logging :A debug statement is executed
+2022-01-29 23:17:47,664 :INFO : testing.test_logging :Information statement
+2022-01-29 23:17:47,664 :DEBUG : testing.test_logging :A debug statement is executed
+2022-01-29 23:17:47,664 :WARNING : testing.test_logging :Something is in warning mode
+2022-01-29 23:17:47,664 :ERROR : testing.test_logging :A Major error has happend
+2022-01-29 23:17:47,664 :CRITICAL : testing.test_logging :Critical issue
+2022-01-30 18:39:04,285 :DEBUG : testing.test_logging :A debug statement is executed
+2022-01-30 18:39:04,299 :INFO : testing.test_logging :Information statement
+2022-01-30 18:39:04,300 :DEBUG : testing.test_logging :A debug statement is executed
+2022-01-30 18:39:04,300 :WARNING : testing.test_logging :Something is in warning mode
+2022-01-30 18:39:04,301 :ERROR : testing.test_logging :A Major error has happend
+2022-01-30 18:39:04,301 :CRITICAL : testing.test_logging :Critical issue
